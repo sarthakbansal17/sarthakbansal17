@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ****🧰 Tech Stack****
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="50px" width="50px" alt="C">  <img src="https://i.pinimg.com/originals/0b/84/9c/0b849c72f38362fe12072a4916660013.png" height="50px" width="50px" alt="C++">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" height="50px" width="50px" alt="R">  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="50px" width="50px" alt="Java">  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50px" width="50px" alt="HTML 5">  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50px" width="50px" alt="CSS 3">  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="50px" width="50px" alt="Bootstrap">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="50px" width="50px" alt="JavaScript">
+
+***
+
+![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakbansal17&show_icons=true&theme=radical)
